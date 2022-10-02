@@ -1,0 +1,97 @@
+.codo-img {
+    height: auto;
+    width: auto;
+    max-height: 75px;
+    max-width: 270px;
+}
+.navbar {
+    background-color: rgba(53, 58, 64, 255);
+}
+.navbar-brand {
+    color: white;
+}
+.grey {
+    color: rgb(151, 151, 151);
+}
+.green {
+    color: rgb(7, 162, 7);
+}
+.texto-oradores {
+    text-align: center;
+    margin-top: 2rem;
+    margin-bottom: 0rem;
+}
+.parr {
+    margin-bottom: 0;
+}
+.overlay {
+    font-size: large;
+    text-align: right;
+    text-shadow: 0.07em 0 black, 0 0.07em black, -0.07em 0 black, 0 -0.07em black;
+    color: white;
+    position: absolute;
+    top: 30rem;
+    right: 2rem;
+    
+}
+.oscuro{
+    filter: brightness(0.5);
+}
+.orador {
+    background-color: transparent;
+    color: white;
+    border-color: white;
+    border-radius: 5px;
+    margin-left: 5px;
+}
+.comprar {
+    color: white;
+    background-color: rgb(14, 226, 14);
+    border-color: rgb(14, 226, 14);
+    border-radius: 5px;
+    margin-right: 5px;
+}
+.bs {
+    margin-top: 1rem;
+}
+.letras {
+    background-color: rgba(53, 58, 64, 255);
+    color: white;
+    margin-top: 1rem;
+    margin-left: 0;
+}
+.playa {
+    margin-top: 1rem;
+    margin-right: 0;
+}
+
+.mas {
+    background-color: transparent;
+    border: 1px solid white;
+    border-radius: 5px;
+    color: white;
+}
+.ConveOrador {
+    text-align: center;
+    margin-top: 2rem;
+    margin-bottom: 0rem;
+    font-size: small;
+}
+.datos{
+     margin-bottom: 1rem;
+}
+.recuerda {
+    margin-top: 0;
+    font-size: small;
+    color: grey;
+}
+.footer-container {
+    background-color: rgba(30, 81, 110, 255);
+    margin-top: 1rem;
+    color: white;
+}
+.footer-items {
+    margin-top: 1rem;
+    padding-left: 6rem;
+    width: auto;
+}
