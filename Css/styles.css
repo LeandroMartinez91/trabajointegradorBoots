@@ -24,15 +24,13 @@
 .parr {
     margin-bottom: 0;
 }
-.overlay {
-    font-size: large;
+#overlay {
+    margin-right: 5px;
     text-align: right;
     text-shadow: 0.07em 0 black, 0 0.07em black, -0.07em 0 black, 0 -0.07em black;
     color: white;
-    position: absolute;
-    top: 30rem;
-    right: 2rem;
     
+       
 }
 .oscuro{
     filter: brightness(0.5);
@@ -94,4 +92,11 @@
     margin-top: 1rem;
     padding-left: 6rem;
     width: auto;
+}
+
+#card {
+   
+    display: flex;
+    padding-bottom: 15px;
+    margin-top: 10px;
 }
